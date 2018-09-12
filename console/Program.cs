@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace console
+namespace TeleprompterConsole
 {
     class Program
     {
